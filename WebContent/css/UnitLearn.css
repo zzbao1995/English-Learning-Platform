@@ -1,0 +1,517 @@
+ul
+{
+	padding: 0;
+}
+
+.bg1
+{
+	/*background-image: url("../images/bg.jpg");
+	overflow-y:scroll;
+	height: 2039px; */
+	width: 1335px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.cc
+{
+	margin-top: 15px;
+	border-top:1px solid #dddddd;
+  border-bottom:1px solid #dddddd;
+}
+.book
+{
+   display: inline-block;
+   height: 600px;
+   width: 220px;
+  
+   text-align: left;
+   margin-right: -4px;
+   margin-left: -4px;
+
+   
+}
+
+.unit
+{
+	display: inline-block;
+   height: 600px;
+   width: 350px;
+   background-color: #e5e5e5;
+  
+   margin-right: -4px;
+   margin-left: -4px;
+
+   border-right:1px solid #dddddd;
+   border-left:1px solid #dddddd;
+
+   overflow:hidden;
+}
+
+.con
+{
+	display: inline-block;
+   height: 600px;
+   width: 755px;
+   
+   margin-right: -4px;
+   margin-left: -4px;
+
+   overflow:hidden;
+}
+
+.con1
+{
+   display: inline-block;
+   height: 600px;
+   width: 975px;
+   
+   margin-right: -4px;
+   margin-left: -4px;
+
+   overflow:hidden;
+}
+
+.con2
+{
+   display: inline-block;
+   height: 600px;
+   width: 1105px;
+   
+   margin-right: -4px;
+   margin-left: -4px;
+
+   overflow:hidden;
+}
+
+/*第一栏样式*/
+
+.book1
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+}
+
+.book111
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book111:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book2
+{
+   clear: both;
+  margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book222
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 30px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book222:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book3
+{
+   clear: both;
+  margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book333
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book333:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book4
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book444
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book444:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book5
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book555
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book555:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book6
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book666
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book666:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book7
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book777
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book777:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+.book8
+{
+   clear: both;
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 210px;
+   
+
+   
+}
+
+.book888
+{
+   clear: both;
+   font-size: 14px;
+   width: 185px;
+   height: 30px;
+   text-align: left;
+   padding-left: 35px;
+   padding-top: 12px;
+   margin-top: 5px;
+
+}
+
+.book888:hover
+{
+   background-color: #ffcccc;
+  
+}
+
+
+
+
+.book111 a,.book222 a,.book333 a,.book444 a,.book555 a,.book666 a,.book777 a,.book888 a
+{
+	color: #666666;
+}
+
+.book111 a,.book222 a,.book333 a,.book444 a,.book555 a,.book666 a,.book777 a,.book888 a:hover
+{
+	color: #666666;
+}
+
+.book11,.book22,.book33,.book44,.book55,.book66,.book77,.book88
+{
+	display: none;
+}
+.icon
+{
+	margin-right: 10px;
+	margin-left: 25px;
+	
+}
+
+/*第二栏，单元样式*/
+
+.unit0
+{
+	margin-top: 0;
+	width: 370px;
+	height: 600px;
+	overflow-y:scroll;
+}
+
+.unit1
+{
+	width: 350px;
+	height: 150px;
+	padding-top: 12px;
+	text-align: left;
+	font-family: Plantagenet Cherokee; 
+
+
+}
+
+.unit1:hover
+{
+	background-color: #ff7744;
+	color: #ffffff;
+}
+
+.us
+{
+      width: 300px;
+      height: 88.5px;
+       margin-left: 25px;
+       font-family: Plantagenet Cherokee; 
+       font-size:15px;
+       color: #666666;
+       word-break: break-all;
+
+       border-bottom:1px solid #aaaaaa;
+}
+.us:hover
+{
+	color: #ffffff;
+}
+
+/*第三栏，内容的样式*/
+
+.conIn
+{
+   height: 600px;
+   width: 775px;
+   overflow-y:scroll;
+   background-image: url("../images/rbg.png");
+   background-repeat:no-repeat;
+   text-align: left;
+}
+
+.conIn1
+{
+   height: 600px;
+   width: 995px;
+   overflow-y:scroll;
+   background-image: url("../images/rbg.png");
+   background-repeat:no-repeat;
+   text-align: left;
+}
+
+.conIn2
+{
+   height: 600px;
+   width: 1125px;
+   overflow-y:scroll;
+   background-image: url("../images/rbg2.png");
+   background-repeat:no-repeat;
+   text-align: left;
+}
+
+.ct
+{
+	margin-top: 130px;
+  padding-left: 40px;
+  font-family: 幼圆;
+  font-size: 24px;
+  font-weight: 600;
+  
+}
+
+.file
+{
+	padding-left: 40px;
+}
+
+/* news */
+.news
+{
+    height: 555px;
+    width: 955px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 50px;
+}
+
+.newsT
+{
+  font-family: 幼圆;
+  font-size: 14px;
+  color: #a7a7a7;
+  width: 315px;
+  
+}
+.newsT:hover
+{
+  color: #666666;
+  cursor: pointer;
+}
+
+#newsT
+{
+  margin-top: 45px;
+ 
+  
+  line-height: 30px;
+  height: 500px;
+
+}
+
+.pageF a
+{
+  color: #aaaaaa;
+}
+.pageF a:hover
+{
+  color: #888888;
+}
+.page
+{
+  color: #888888;
+  font-size: 14px;
+}
+.date
+{
+  float: right;
+}
+
+/*admin*/
+.admin
+{
+  margin-top: 50px;
+  margin-left: -20px;
+  
+}
+
+.unitA
+{
+  display: inline-block;
+   height: 600px;
+   width: 220px;
+   background-color: #e5e5e5;
+  
+   margin-right: -4px;
+   margin-left: -4px;
+
+   border-right:1px solid #dddddd;
+   border-left:1px solid #dddddd;
+
+   overflow:hidden;
+}

@@ -1,0 +1,15 @@
+/* 当浏览器的可视区域小于980px */
+@media screen and （max-width： 980px） {
+#wrap {width： 90%; margin:0 auto;}
+#content {width： 60%;padding： 5%;}
+#sidebar {width： 30%;}
+#footer {padding： 8% 5%;margin-bottom： 10px;}
+}
+/* 当浏览器的可视区域小于650px */
+@media screen and （max-width： 650px） {
+#header {height： auto;}
+#searchform {position： absolute;top： 5px;right： 0;}
+#content {width： auto; float： none; margin： 20px 0;}
+#sidebar {width： 100%; float： none; margin： 0;}
+}
+

@@ -1,0 +1,341 @@
+.bg
+{
+	/*background-image: url("../images/bg.jpg");
+	overflow-y:scroll;
+	height: 2039px; */
+	width: 1335px;
+	height: 1500px;
+	margin: 0 auto;
+}
+
+a
+{
+	text-decoration: none;
+	color: #000000;
+	font-family: 幼圆;
+	cursor: pointer;
+}
+
+li
+{
+	
+	float: left;
+	list-style: none;
+
+}
+
+h3
+{
+	font-family: 幼圆;
+}
+
+
+/*顶部灰色部分*/
+.address
+{
+	margin-top:0; 
+	background-color: #F4F4F4;
+	height: 30px;
+	width:1335px;
+	text-align: left;
+}
+
+
+a:hover
+{
+	color: #f5610b;
+}
+
+.loginOut
+{
+	border-right:1px solid #ddd;
+	padding-right: 15px;
+	margin-left: 980px;
+	font-size: 14px;
+}
+
+.en
+{
+    margin-left: 50px;
+}
+
+.user
+{
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+#add
+{
+  margin-left: 10px;
+}
+
+/*顶部导航部分*/
+
+.menu
+{
+	text-align: left;
+	height: 45px;
+	width:1335px;
+	
+}
+
+.title
+{
+	margin-left: 50px;
+	color: #ffaa33;
+	font-size: 46px;
+	font-family: Plantagenet Cherokee;
+	
+
+}
+
+
+.navigation
+{
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 0;
+	margin-top: 22px;
+}
+
+.navigation0
+{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 14px;
+
+
+
+}
+
+.navigation1
+{
+
+    margin-top: 10px;
+    position: absolute;
+    background-color: #ffaa33;
+    width:190px;
+    padding-left: 0;
+    padding-right: 0;
+    
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px; 
+    border-radius:5px; 
+  
+   
+   display: none;
+   z-index: 10;
+
+}
+
+
+.navigation1 em
+{
+	display:block;
+    border-width:10px; 
+    position:absolute; 
+    top:-20px; 
+    left:20px;
+    border-style:solid dashed dashed ; 
+    border-color: transparent transparent #ffaa33  transparent ;
+    font-size:0; 
+    line-height:0;
+    z-index: 0;
+}
+
+.navi
+{
+	font-size: 10px;
+    display: inline-block;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #ffffff;
+    width: 175px;
+   border-bottom:1px solid #ffffff;
+}
+
+.navi:hover
+{
+	color: #ffffff;
+	background-color: #f5610b;
+}
+
+.search
+{
+	float: right;
+	margin-right: 70px;
+	margin-top: 22px;
+}
+
+/*简介部分*/
+
+.picture
+{
+	width: 1335px;
+	height: 500px;
+    background-image: url("../images/2.png");
+    margin-top: 0;
+}
+
+.summary
+{
+	color: #ffffff;
+	font-size: 14px;
+	font-family: 幼圆;
+}
+
+#summary
+{
+	height: 300px;
+	width: 800px;
+	margin-top: 40px;
+	text-align: left;
+
+}
+
+.naL
+{
+	background-color: #ffffff;
+	width: 1050px;
+	height: 70px;
+	margin-top: 36px;
+
+}
+.naL ul
+{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.naL0
+{
+	font-size: 17px;
+	width: 190px;
+	height: 45px;
+    padding-top: 26px;
+}
+
+.naL0:hover
+{
+	background-color: #f4f4f4;
+}
+.naL0 a:hover
+{
+	color: #000000;
+}
+.naL1
+{
+	font-size: 24px;
+	font-weight: 600;
+	font-family: Plantagenet Cherokee;
+	background-color: #ffaa33;
+	width: 190px;
+	height: 55px;
+	padding-top: 15px;
+}
+.naL1 a
+{
+	color: #ffffff;
+}
+.naL1 a:hover
+{
+   color: #ffffff;
+}
+.naL2
+{
+	width: 100px;
+	height: 70px;
+	background-color: #ffaa33;
+}
+
+.content
+{
+	padding-top: 40px;
+}
+
+.content img
+{
+	padding: 0;
+}
+
+
+/*底部内容部分，网格布局*/
+
+#content
+{
+	width: 960px;
+	height: 675px;
+	margin-top: 80px;
+}
+
+.row
+{
+    width: 960px;
+    height: 225px;
+    padding: 0;
+}
+
+.column1
+{
+	float: left;
+    width: 160px;
+    height: 225px;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.column1:hover
+{
+	background-color: #ffaa33;
+	color: #ffffff;
+}
+
+.column2
+{
+	float: left;
+    width: 160px;
+    height: 225px;
+    padding: 0;
+}
+
+.Uname
+{
+	font-weight: 500;
+	font-family: Plantagenet Cherokee;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+    word-break:break-all;
+    margin-top: 45px;
+}
+
+.learn
+{
+	position:absolute;
+	width: 85px;
+	height: 25px;
+	background-color: #ffaa33;
+	margin-top: 170px;
+	margin-left: 20px;
+	
+}
+
+.learnWord
+{
+	font-weight: 500;
+	font-family: Plantagenet Cherokee;
+	font-size: 18px;
+	margin-top:5px;
+	margin-right: 5px;
+	margin-left: 5px;
+    color: #ffffff;
+}
+
+.learnWord:hover
+{
+   color: #ffffff;
+}
